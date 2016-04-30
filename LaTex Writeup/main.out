@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section*.2}{Problem 1.}{}% 1
+\BOOKMARK [1][-]{section*.3}{Problem 2.}{}% 2
+\BOOKMARK [1][-]{section*.4}{Problem 3.}{}% 3
+\BOOKMARK [1][-]{section*.5}{Problem 4.}{}% 4
+\BOOKMARK [1][-]{section*.6}{APPENDIX A: CODE LISTINGS}{}% 5
+\BOOKMARK [2][-]{section*.7}{linearKernel\137svm\137plot.py}{section*.6}% 6
+\BOOKMARK [2][-]{section*.8}{plot\137confusion\137matrix.py}{section*.6}% 7
+\BOOKMARK [2][-]{section*.9}{ten\137fold\137crossValidation.py}{section*.6}% 8
+\BOOKMARK [2][-]{section*.10}{classifierWithExtraFeatures.py}{section*.6}% 9
+\BOOKMARK [2][-]{section*.11}{SpamDataset.py}{section*.6}% 10

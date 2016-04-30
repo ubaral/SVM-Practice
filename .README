@@ -1,0 +1,65 @@
+========================================================================
+						Name: UTSAV BARAL
+							SID# 25694452
+========================================================================
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+========================================================================
+					   CODE AND FILES SUMMARY
+========================================================================
+---------------------------------
+"output.csv" and "spamOutput.csv"
+---------------------------------
+	These two files are the output of the test results that were submitt-
+	ed to kaggle and the files that the scored are from.
+	
+--------------------------
+"linearKernel_svm_plot.py"
+--------------------------
+	The Script used to generate the plots in Problem 1. Using th SVM
+	with linear kernel provided by python scikit-learn.
+
+--------------------------
+"plot_confusion_matrix.py"
+--------------------------
+	This script is used to generate the confusion matrices from Problem
+	2. It is hard coded in because I just generated the matrices during
+	the execution of the alogrithm and then used that formatting to plug
+	them into pyplot.
+
+-----------------------------
+"ten_fold_crossValidation.py"
+-----------------------------
+	This program is the implementation of ten-fold cross validation as
+	specified in Problem 3.
+
+--------------------------------
+"classifierWithExtraFeatures.py"
+--------------------------------
+	The is the Digit Classifier I used for my Kaggle Submission with
+	addidtional cool features. For example, it recognizes loops in the
+	images and other things.
+
+----------------
+"SpamDataset.py"
+----------------
+	The Script used to do cross Validation for the spam dataset given
+	to us. Partitions into twelve chunks and does 12-fold cross
+	validation.
+
+-----------------
+"classForSpam.py"
+-----------------
+	This script runs the classifier on the optimum c value we found,
+	which was 10, and spits the results to the output csv file.
+	Which was then uploaded to kaggle.
+
+***********************************************************************
+**SIDE NOTE************************************************************
+***********************************************************************
+The directory "LaTex Writeup/" contains the source files for my writeup
+of the homework including the final compiled pdf. It also has
+the graphics files I exported from ppyplot. like the confusion matrices
+and plot from Problem 1.
+***********************************************************************
+***********************************************************************
+***********************************************************************

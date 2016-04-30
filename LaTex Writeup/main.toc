@@ -1,0 +1,10 @@
+\contentsline {section}{Problem 1.}{2}{section*.2}
+\contentsline {section}{Problem 2.}{3}{section*.3}
+\contentsline {section}{Problem 3.}{6}{section*.4}
+\contentsline {section}{Problem 4.}{7}{section*.5}
+\contentsline {section}{APPENDIX A: CODE LISTINGS}{8}{section*.6}
+\contentsline {subsection}{linearKernel\_svm\_plot.py}{8}{section*.7}
+\contentsline {subsection}{plot\_confusion\_matrix.py}{10}{section*.8}
+\contentsline {subsection}{ten\_fold\_crossValidation.py}{12}{section*.9}
+\contentsline {subsection}{classifierWithExtraFeatures.py}{14}{section*.10}
+\contentsline {subsection}{SpamDataset.py}{17}{section*.11}
